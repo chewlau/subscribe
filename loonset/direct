@@ -1,3 +1,5 @@
-IP-CIDR, 198.18.0.0/16, DIRECT #用于透明代理直连
+#用于透明代理直连
+IP-CIDR, 198.18.0.0/16, DIRECT
 GEOIP, cn, DIRECT
-DOMAIN-KEYWORD, qytsub, DIRECT #用于更新节点
+#用于更新节点
+DOMAIN-KEYWORD, qytsub, DIRECT 
